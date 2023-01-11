@@ -1,0 +1,1 @@
+@ Ao retornar o evento de click, pegamos o clientX&Y prop responsavel pelo posicionamento
